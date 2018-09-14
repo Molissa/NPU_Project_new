@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_diary"
+            android:icon="@mipmap/diary"
+            android:title="@string/生物日記" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@mipmap/pick"
+            android:title="@string/生物辨識" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@mipmap/picture"
+            android:title="@string/生物圖鑑" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@mipmap/map"
+            android:title="@string/生物地圖" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@mipmap/setting"
+            android:title="@string/設定" />
+    </group>
+
+    <group>
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/分享" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/寄信" />
+            <item
+                android:id="@+id/nav_end"
+                android:icon="@mipmap/crab"
+                android:title="@string/離開" />
+        </menu>
+    </group>
+
+</menu>

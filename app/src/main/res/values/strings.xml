@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">螃蟹趴趴Go</string>
+    <string name="生物日記">探索日誌</string>
+    <string name="生物辨識">辨識精靈</string>
+    <string name="生物圖鑑">螃蟹百科</string>
+    <string name="生物地圖">螃蟹地圖</string>
+    <string name="設定">設定</string>
+    <string name="聯絡我們">聯絡我們</string>
+    <string name="分享">分享</string>
+    <string name="寄信">寄信</string>
+    <string name="離開">離開</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_main2">主畫面</string>
+    <string name="title_activity_camera">探索日誌</string>
+    <string name="title_activity_biometrics">辨識精靈</string>
+    <string name="title_activity_biometrics2">辨識精靈</string>
+    <string name="title_activity_encyclopedia">螃蟹百科</string>
+    <string name="title_activity_encyclopedia2">螃蟹百科</string>
+    <string name="title_activity_maps">螃蟹地圖</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="fb_login_protocol_scheme">fbAPP_ID</string>
+
+    <string name="default_text">生物名稱：\n日誌內容：
+
+    </string>
+
+    <string name="player_error">Error initializing YouTube player</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="title_activity_setting">個人檔案設定</string>
+
+</resources>
